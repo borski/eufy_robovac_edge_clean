@@ -66,9 +66,9 @@ I can has License Please? No seriously, what do I do here? anything? I'm just fo
 
 ## Acknowledgments
 
-*The Home Assistant Team
-*mitchellrj
-*JXGA
-*Mom
-*My Loving Wife
+* The Home Assistant Team
+* mitchellrj
+* JXGA
+* Mom
+* My Loving Wife
 
