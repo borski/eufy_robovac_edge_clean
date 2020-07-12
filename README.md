@@ -1,0 +1,2 @@
+# eufy_robovac_edge_clean
+ Implementation of edge cleaning in home assistant from the eufy robovac, using both the eufy robovac repo (cloned) and the vacuum repo (cloned) I then modified these files to include the functions for edge cleaning. You should only have to deposit these folders/file structure into your custom_components folder, preform a full reboot, and the functionality should appear under the services menu.
