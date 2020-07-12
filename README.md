@@ -8,10 +8,10 @@ In this guide I will be implementing edge cleaning on the eufy robovac
 
 ### Prerequisites:
 
-Home Assistant with HACS installed
-A robovac that is currently using the eufy_robovac integration in hacs
-Local access to your custom_components folder
-The ability to reboot your server
+* Home Assistant with HACS installed
+* A robovac that is currently using the eufy_robovac integration in hacs
+* Local access to your custom_components folder
+* The ability to reboot your server
 
 ```
 Known working Models:
