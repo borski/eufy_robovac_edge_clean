@@ -43,9 +43,8 @@ I then added the additional services, and backend for the edge cleaning as seen 
 I then modified the Eufy_robovac integration to include, and enable the edge cleaning functionality.
 Then, lastly, I modified the robovac lovelace card to include this functionality, as that card already had SPOT cleaning functionality, and just changing that function to do EDGE cleaning instead, it works as expected.
 
-```
+
 [changes made from vacuum integration](https://github.com/home-assistant/core/pull/25483/files#diff-6903b845a32a9975ae29b8f6389a34da)
-```
 
 ## Built With
 
