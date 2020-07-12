@@ -26,6 +26,22 @@ Enable the samba share addon or otherwise gain access locally to your "custom_co
 
 Copy and paste the folder (not the files at the top level, just the 2 folders (eufy_robovac, vacuum) into your custom components folder.
 
+modify configuration.yaml in home assistant:
+```
+vacuum:  
+- platform: eufy_vacuum
+```
++
+```
+eufy_vacuum:
+  devices:
+    name: Robovac
+    address: !secret VacLocalIP
+    access_token: !secret VacLocalKey
+    id: !secret VacID
+    type: T2118
+```
+
 Fully reboot your home assistant server.
 
 Test functionality in the services menu for your robovac.
