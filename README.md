@@ -43,6 +43,7 @@ eufy_vacuum:
     id: !secret VacID
     type: T2118
 ```
+The "VacLocalKey" / "access_token" can by found using [this guide](https://github.com/joshstrange/eufy-robovac)
 
 Fully reboot your home assistant server.
 
