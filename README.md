@@ -15,8 +15,9 @@ In this guide I will be implementing edge cleaning on the eufy robovac
 
 ```
 Known working Models:
-Eufy Robovac 35c
+Eufy Robovac 15c Max
 Eufy Robovac 30c
+Eufy Robovac 35c
 Potentially: Eufy Robovac g30
 ```
 
